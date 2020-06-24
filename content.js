@@ -73,7 +73,7 @@ function getTimeFromItem(item) {
 };
 
 function workTitle() {
-  return document.getElementsByClassName('eo-select-label')[0].textContent;
+  return document.getElementsByClassName('m-md-bottom col-md-6')[0].textContent;
 }
 
 /**
